@@ -6,8 +6,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hotbrainy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-
   <h3 align="left">Skillsets</h3>
 <p align="left">
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
