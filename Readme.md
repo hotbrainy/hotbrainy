@@ -188,17 +188,14 @@
 
 
   <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/hotbrainy" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
+  <p align="left">  
     <a href="https://codepen.io/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
         alt="hotbrainy" height="30" width="40" /></a>
     <a href="https://dev.to/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
         alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/hotbrainy" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/19176503/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
         alt="hotbrainy" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/hotbrainy" target="blank"><img align="center"
