@@ -204,8 +204,10 @@
     <a href="https://discord.gg/hotbrainy" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
         alt="hotbrainy" height="30" width="40" /></a>
-    <a href="https://drive.google.com/drive/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="hotbrainy" height="30" width="40" /></a>
+    <a href="https://drive.google.com/drive/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_" target="blank">
+     <img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discorda.svg"
+        height="30" width="40" />
+    </a>
   </p> 
  
