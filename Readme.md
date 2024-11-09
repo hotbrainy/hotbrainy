@@ -118,15 +118,9 @@
         src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" />
     </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+        alt="typescript" width="40" height="40" /> </a>  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs" width="40" height="40" /> </a> <a href="https://vuepress.vuejs.org/" target="_blank"
-      rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-        alt="vuepress" width="40" height="40" /> </a> <a href="https://vuetifyjs.com/en/" target="_blank"
-      rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" /> </a>
+        alt="vuejs" width="40" height="40" /> </a>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40" /> </a> 
